@@ -14,12 +14,5 @@ print 'Sum: ', int(sum(numlist))
 
 
 
-
+# super short version:
 print sum( [int(y) for y in re.findall('[0-9]+',open('regex_sum_200855.txt').read()) ] )
-
-
-
-
- #
- #print sum( [ ****** *** * in **********('[0-9]+',**************************.read()) ] )
- #
